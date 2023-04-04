@@ -1,0 +1,7 @@
+{
+    "loginPage": {
+        "emailInputField":"#email" ,
+        "passwordInputField":"#password" , 
+        "submitBtn":"#submit"
+    }
+}
